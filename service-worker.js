@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/morphengage/precache-manifest.b7aa8d08cb428f544b46308256256d9f.js"
+  "/morphengage/precache-manifest.ac172f65320e521ae833efee6af54c50.js"
 );
 
 self.addEventListener('message', (event) => {
